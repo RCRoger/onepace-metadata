@@ -363,10 +363,10 @@
     end: 30
   episodes_adapted: "12"
   filler_episodes: ""
-  time_saved_mins: "75"
-  time_saved_mins_value: 75
-  time_saved_percent: 29.91%
-  time_saved_percent_value: 29.91
+  time_saved_mins: "59"
+  time_saved_mins_value: 59
+  time_saved_percent: 23.67%
+  time_saved_percent_value: 23.67
   status: ""
   episodes:
     - id: 563366367-001
@@ -7822,12 +7822,12 @@
   anime_episode_range:
     start: 890
     end: 1085
-  episodes_adapted: "136"
+  episodes_adapted: "144"
   filler_episodes: 895-896, 1029 - 1030, 1084
-  time_saved_mins: "862"
-  time_saved_mins_value: 862
-  time_saved_percent: 28.82%
-  time_saved_percent_value: 28.82
+  time_saved_mins: "1398"
+  time_saved_mins_value: 1398
+  time_saved_percent: 44.13%
+  time_saved_percent_value: 44.13
   status: WIP
   episodes:
     - id: 1926352856-000
@@ -8974,12 +8974,12 @@
   anime_episode_range:
     start: 1086
     end: 1155
-  episodes_adapted: "40"
+  episodes_adapted: "45"
   filler_episodes: ""
-  time_saved_mins: "125"
-  time_saved_mins_value: 125
-  time_saved_percent: 14.94%
-  time_saved_percent_value: 14.94
+  time_saved_mins: "350"
+  time_saved_mins_value: 350
+  time_saved_percent: 37.09%
+  time_saved_percent_value: 37.09
   status: WIP
   episodes:
     - id: 1664435609-000
