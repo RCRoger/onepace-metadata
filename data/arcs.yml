@@ -5041,8 +5041,8 @@
 - id: "2070578030"
   arc: 29
   title: Fishman Island
-  audio_languages: JA, EN(1)
-  subtitle_languages: EN, DE(1), ES(1), FI(1), FR(1), JA(1), PT(1), RU(1), TR(1)
+  audio_languages: JA, EN(1-2)
+  subtitle_languages: EN, DE(1-2), ES(1-2), FI(1-2), FR(1-2), JA(1-2), PT(1), RU(1), TR(1-2)
   resolution: 720p,1080p
   manga_chapters: 603 - 653
   manga_chapter_range:
@@ -5055,10 +5055,10 @@
     end: 574
   episodes_adapted: "51"
   filler_episodes: "542"
-  time_saved_mins: "381"
-  time_saved_mins_value: 381
-  time_saved_percent: 34.79%
-  time_saved_percent_value: 34.79
+  time_saved_mins: "376"
+  time_saved_mins_value: 376
+  time_saved_percent: 34.37%
+  time_saved_percent_value: 34.37
   status: TBR
   episodes:
     - id: 2070578030-001
@@ -5089,14 +5089,14 @@
         start: 605
         end: 606
       episodes: Ep. 524-526
-      released: "2013-03-29"
+      released: "2026-10-11"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: BD7169C3
-            length: "24:14"
-            length_seconds: 1454
+            crc32: 9727A1C7
+            length: "28:50"
+            length_seconds: 1730
     - id: 2070578030-003
       arc: 29
       episode: 3

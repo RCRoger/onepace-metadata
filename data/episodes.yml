@@ -1925,7 +1925,7 @@
         crc32: 06F25D1B
         length: "26:57"
         url: https://nyaa.si/view/1279925
-    is_current: false
+    is_current: true
 7A93DCC5:
     arc_id: "1664435609"
     episode_id: 1664435609-016
@@ -4939,6 +4939,23 @@
         length: "31:15"
         url: https://nyaa.si/view/1524087
     is_current: true
+9727A1C7:
+    arc_id: "2070578030"
+    episode_id: 2070578030-002
+    arc: 29
+    episode: 2
+    title: Adventure in the Ocean Depths! 10 Kilometers Below the Surface!
+    description: Luffy, Zoro, and Sanji leave the relative safety of the Sunny to face the Kraken in its own territory. Putting their powerful new skills to work, they survive the encounter but are swept away by a downward current and become lost in the murky depths.
+    chapters: Ch. 605-606
+    episodes: Ep. 524-526
+    released: "2026-10-11"
+    file:
+        version: normal
+        crc32: 9727A1C7
+        length: "28:50"
+        length_seconds: 1730
+        url: https://nyaa.si/view/2172969
+    is_current: true
 9863ADF4:
     arc_id: "277573788"
     episode_id: 277573788-015
@@ -6662,7 +6679,7 @@ BD7169C3:
         crc32: BD7169C3
         length: "24:14"
         url: https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e
-    is_current: true
+    is_current: false
 BE72EB0E:
     arc_id: "168502639"
     episode_id: 168502639-020
@@ -9109,7 +9126,7 @@ FCF6BA63:
         url: https://nyaa.si/view/2062715
         magnet_uri: magnet:?xt=urn:btih:2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b&dn=%5BOne+Pace%5D%5B82-84%5D+Arlong+Park+06+%5B1080p%5D%5BFCF6BA63%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2062715.torrent
-    is_current: true
+    is_current: false
 FCF7F7E4:
     arc_id: "2070578030"
     episode_id: 2070578030-009
