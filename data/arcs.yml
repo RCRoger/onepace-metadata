@@ -1869,30 +1869,12 @@
   anime_episodes: 153 - 195, 203
   episodes_adapted: "44"
   filler_episodes: ""
-  time_saved_mins: "197"
-  time_saved_mins_value: 197
-  time_saved_percent: 21.38%
-  time_saved_percent_value: 21.38
+  time_saved_mins: "279"
+  time_saved_mins_value: 279
+  time_saved_percent: 30.29%
+  time_saved_percent_value: 30.29
   status: ""
   episodes:
-    - id: 277573788-000
-      arc: 16
-      episode: 0
-      title: Skypiea 25 (G8)
-      description: ""
-      chapters: Ch. 302-303
-      chapter_range:
-        start: 302
-        end: 303
-      episodes: Ep. 195, 207
-      released: "2025-05-03"
-      has_extended: false
-      files:
-        normal:
-            version: normal
-            crc32: 90C45C25
-            length: "24:09"
-            length_seconds: 1449
     - id: 277573788-001
       arc: 16
       episode: 1
@@ -2330,13 +2312,18 @@
         end: 303
       episodes: Ep. 195, 203, 207
       released: "2025-05-03"
-      has_extended: false
+      has_extended: true
       files:
         normal:
             version: normal
             crc32: C951349C
             length: "20:48"
             length_seconds: 1248
+        extended:
+            version: extended
+            crc32: 90C45C25
+            length: "24:09"
+            length_seconds: 1449
   gid: "277573788"
 - id: "988886513"
   arc: 17
